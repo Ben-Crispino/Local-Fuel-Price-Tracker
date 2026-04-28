@@ -12,3 +12,5 @@ All information will be presented on a small OLED but ideally a mini-map style d
 I intend to keep this repository public but will not necissarily have the most up to date content uploaded
 
 I also need to check security term for the API usage to see if there are any restrictions
+
+.venv virtual environment created
